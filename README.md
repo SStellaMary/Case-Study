@@ -1,4 +1,4 @@
-# College-Project
+# Final year-Project
 The study is helpful to understand the market scope and various opportunities available in the market. The study explores the role of offers and coupons provided by the hyper markets in shopping malls. The study also suggests ides to improve the existing offers in terms of improving the sale in hypermarkets.
 
 Primary data is collected through feedbacks collected from sales team of shops in shopping mall such as SPAR.
